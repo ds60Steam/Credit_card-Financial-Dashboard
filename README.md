@@ -1,2 +1,2 @@
-# Credit_card-Financial-Dashboard
+# Credit_card Financial Dashboard
 power BI Dashboard
