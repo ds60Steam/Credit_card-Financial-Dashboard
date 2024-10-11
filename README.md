@@ -10,5 +10,5 @@ This project focuses on analyzing credit card transaction data to provide insigh
 - Data Source: The report uses anonymized transaction data from a credit card provider to ensure privacy while maintaining data quality.
   
 # Technology Stack:
-Power BI for data visualization and reporting.
-DAX (Data Analysis Expressions) for complex measures and calculated columns.
+- Power BI for data visualization and reporting.
+- DAX (Data Analysis Expressions) for complex measures and calculated columns.
