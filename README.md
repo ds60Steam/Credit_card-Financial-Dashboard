@@ -8,3 +8,7 @@ This project focuses on analyzing credit card transaction data to provide insigh
 - Risk Analysis: Identifies high-risk customers based on missed payments or high credit utilization rates.
 - Interactive Dashboards: Provides dynamic filtering and drill-down capabilities to explore specific customer segments or time periods.
 - Data Source: The report uses anonymized transaction data from a credit card provider to ensure privacy while maintaining data quality.
+  
+# Technology Stack:
+Power BI for data visualization and reporting.
+DAX (Data Analysis Expressions) for complex measures and calculated columns.
